@@ -36,7 +36,7 @@ console.log(x);
  ///////////////////////////////////////////////////////////////////////
 
 //4-O que acontece nessa declaração, explique sobre o Hoisting
-/*Resp.: no console.log(a) ele funciona pois ocorre o hoiting da variavel para topo
+/*Resp.: no console.log(a) ele funciona pois ocorre o hoiting da variavel para topo vai aparecer indefinido
         no console.log(b) ele ocorre erro pois a variavel b ainda não foi inicializada
 */
 
